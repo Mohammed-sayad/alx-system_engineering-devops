@@ -1,0 +1,2 @@
+#!/bin/bash
+chown betty hello --no-dereference --preserve-root --from=guillaume
